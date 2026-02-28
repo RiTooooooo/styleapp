@@ -1,0 +1,39 @@
+#root {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.subtitle {
+  color: #888;
+  font-size: 1.1rem;
+  margin-top: 0;
+}
+
+.card {
+  background: #1a1a1a;
+  border-radius: 12px;
+  padding: 2em;
+  margin: 2rem auto;
+  text-align: left;
+}
+
+.card h2 {
+  margin-top: 0;
+}
+
+.steps-list {
+  padding-left: 1.5rem;
+  line-height: 2;
+}
+
+.hint {
+  color: #888;
+  font-size: 0.9rem;
+}
